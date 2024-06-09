@@ -1,0 +1,14 @@
+.custom-container {
+    width: 313px;
+    height: 513px;
+    border-radius: 20px;
+    border: 1px solid #e9e9e9;
+    background: linear-gradient(180deg, #fbd4b6 0%, #ffffff 100%);
+    padding: 32px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  .border {
+    border-width: 2px; /* Change the border width to make it thicker */
+  }
+  
+  /* Other styles remain the same */
